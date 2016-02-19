@@ -1,0 +1,29 @@
+a{text-decoration:none;}
+body {
+	background:url(http://r.photo.store.qq.com/psb?/V10csRXw0fuc4N/rYzYsoc3.njHnLQ64HvYWR*mxEfl2yrPlyScZ4XROnY!/r/dFkBAAAAAAAA) no-repeat 100%;
+	background-size: 100%;
+	font-family: 'open_sanslight';
+	font-size: 100%;
+	background-repeat: no-repeat;
+	background-attachment: fixed;
+	background-size: cover;
+}
+.copy_right  {
+	color: #eee;
+	font-size: 1.25em;
+	line-height: 1.8em;
+	padding: 5em 0px 0px 0px;
+	font-family: 'open_sansregular';
+	text-align: center;
+}
+.copy_right a {
+	color:#0DF0FA;
+	-webkit-transition: all 0.3s ease-out;
+	-moz-transition: all 0.3s ease-out;
+	-ms-transition: all 0.3s ease-out;
+	-o-transition: all 0.3s ease-out;
+	transition: all 0.3s ease-out;
+}
+.copy_right a:hover {
+	color:#fff;
+}
