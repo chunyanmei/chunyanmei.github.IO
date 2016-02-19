@@ -8,14 +8,14 @@ body {
 	background-attachment: fixed;
 	background-size: cover;
 }
-.copy_right  {
+.copy_right1  {
 	color: #eee;
 	font-size: 0.8em;
 	line-height: 1.8em;
 	padding: 5em 0px 0px 0px;
 	font-family: 'open_sansregular';
 	text-align: center;
-}.copy_right1  {
+}.copy_right  {
 	color: #eee;
 	font-size: 1.25em;
 	line-height: 1.8em;
